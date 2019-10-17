@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="blackborder">#000</color>
+    <color name="colorPrimary">#e6e6fa</color>
+    <color name="colorAccent">#6161b0</color>
+</resources>
